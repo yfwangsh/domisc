@@ -20,4 +20,7 @@ HiddenServicePort 80 127.0.0.1:80
 然后启动tor，当然，nginx服务也要启动的，如果没有安装错误的话。
 会在/var/lib/tor/hidden_service/这个目录生成hidden_service文件，打开有两个文件，其中hostname就是你的onion域名地址的文件，用tor浏览器访问即可。
 
-## tbd
+## 移动资产发现
+### APP
+七麦：同开发者 https://www.qimai.cn/andapp/samePubApp/appid/6966742
+
